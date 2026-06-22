@@ -1,3 +1,3 @@
-# Cube: Bloomburrow Set
+# BLB Cube Builder
 
-Visualize Bloomburrow booster rarities for cube prep.
+Visualize Bloomburrow play booster packs for cube prep.
